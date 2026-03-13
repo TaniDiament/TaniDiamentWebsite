@@ -1,0 +1,12 @@
+edu.yu.marketmaker
+edu.yu.marketmaker.config
+edu.yu.marketmaker.exchange
+edu.yu.marketmaker.exposurereservation
+edu.yu.marketmaker.external
+edu.yu.marketmaker.marketmaker
+edu.yu.marketmaker.memory
+edu.yu.marketmaker.model
+edu.yu.marketmaker.persistence
+edu.yu.marketmaker.persistence.interfaces
+edu.yu.marketmaker.service
+edu.yu.marketmaker.state
